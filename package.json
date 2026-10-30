@@ -1,0 +1,22 @@
+{
+  "name": "gestione-ore",
+  "version": "1.0.0",
+  "description": "Applicazione Web Gestione Ore e Rimborsi Dipendenti",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "build:client": "npm.cmd --prefix client run build",
+    "dev:server": "node --watch server/index.js",
+    "dev:client": "npm.cmd --prefix client run dev"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "pdfkit": "^0.16.0",
+    "pdfkit-table": "^0.1.99"
+  }
+}

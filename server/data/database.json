@@ -1,0 +1,255 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_1",
+      "email": "admin@azienda.it",
+      "name": "Amministratore",
+      "surname": "Aziendale",
+      "passwordHash": "$2b$10$Ij9RGWXPz83dAzz75d/fcOQFdPmxzbkNhPvwAq3lAd.qFLePUOv82",
+      "role": "admin",
+      "createdAt": "2026-09-30T13:49:02.065Z"
+    },
+    {
+      "id": "usr_1790950192191_sl2yo",
+      "email": "dario.zeta80@gmail.com",
+      "name": "DARIO",
+      "surname": "ZONTA",
+      "passwordHash": "$2b$10$HcgobBASZyQy47aA/qyrPOuWCo7BBlOeJ66vedB3jueT/WTCITvj6",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:09:52.192Z"
+    },
+    {
+      "id": "usr_1790950484132_zxbq7",
+      "email": "andre.pozzi@live.it",
+      "name": "ANDREA",
+      "surname": "POZZI",
+      "passwordHash": "$2b$10$GsDOvt/PuxrT.iVwKGYj.OEeZJ.OwWcvJ5wTOMNDFQAtaQRgM8RBW",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:14:44.132Z"
+    },
+    {
+      "id": "usr_1790951675379_4xe7e",
+      "email": "tabiadon86@gmail.com",
+      "name": "LORIS",
+      "surname": "TABIADON",
+      "passwordHash": "$2b$10$.TUknlgU4.4sQKHf9sNHJ.3AhgSROO7DqXj16CAuuniunh7ExzDP.",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:34:35.379Z"
+    },
+    {
+      "id": "usr_1790951725241_blqlk",
+      "email": "fabio.rizzetto39@gmail.com",
+      "name": "FABIO",
+      "surname": "RIZZETTO",
+      "passwordHash": "$2b$10$Yil9RB0nFFkIjwV7n0l17u/.ZMZPCThzIj61bpRY/DFUy0ins0AR2",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:35:25.241Z"
+    },
+    {
+      "id": "usr_1790951887806_1qd99",
+      "email": "montif1070@gmail.com",
+      "name": "FABIO",
+      "surname": "MONTI",
+      "passwordHash": "$2b$10$XQy8gDhYMnEy9TmlKHo4.O5xIHF3t2H5BLNZtCiR/iMYHNkyVT4Lu",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:38:07.806Z"
+    },
+    {
+      "id": "usr_1790951947282_ehezt",
+      "email": "alfredocalello1968@gmail.com",
+      "name": "ALFREDO",
+      "surname": "CALELLO",
+      "passwordHash": "$2b$10$FRKyc6BPpn8g7DQcaB06l.4PJWUgQFPpJHeek1i5WSwTkcgBFIakq",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:39:07.282Z"
+    },
+    {
+      "id": "usr_1790952074534_nwr1j",
+      "email": "matteo.vespero83@gmail.com",
+      "name": "MATTEO",
+      "surname": "VESPERO",
+      "passwordHash": "$2b$10$YD08XNycrlWZindZT1JszufsplKSQNY8qRikTrN7txU5Nba9M31ta",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:41:14.534Z"
+    },
+    {
+      "id": "usr_1790952353131_ltdoh",
+      "email": "christian1978caspani@gmail.com",
+      "name": "CHRISTIAN",
+      "surname": "CASPANI",
+      "passwordHash": "$2b$10$ULVseQkuB3R7dD7./KuWCup3IB1WyGe7OtU1P0MEIfJ2aUkFyOfce",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:45:53.131Z"
+    },
+    {
+      "id": "usr_1790952417655_9d20r",
+      "email": "lorenzo.oliva1008@gmail.com",
+      "name": "LORENZO",
+      "surname": "OLIVA",
+      "passwordHash": "$2b$10$M7Q18O1Vt4aJJgmH5Tk/qubzo8eyT2DvGsMPKL.2kHh7Ug5NcGk5W",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:46:57.655Z"
+    },
+    {
+      "id": "usr_1790953090662_cdacl",
+      "email": "malick0471@gmail.com",
+      "name": "MALICK",
+      "surname": "SARR",
+      "passwordHash": "$2b$10$Rn/LbXdIKEW4cEy/AkAJVepzCvp4.WIDwfmj2RMEo4vBPWRM8OMpq",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:58:10.662Z"
+    },
+    {
+      "id": "usr_1790953161152_23dvt",
+      "email": "alessandrotornello63@gmail.com",
+      "name": "ALESSANDRO",
+      "surname": "TORNELLO",
+      "passwordHash": "$2b$10$.nEjJJ1OTmhNdM.tNqtzEeVMT51/1jr5oFPMZLkXFEJJiBn.0Qf3O",
+      "role": "employee",
+      "createdAt": "2026-10-02T14:59:21.152Z"
+    },
+    {
+      "id": "usr_1790953204372_dmxjn",
+      "email": "leotoyota403@gmail.com",
+      "name": "LEO",
+      "surname": "TOYOTA",
+      "passwordHash": "$2b$10$WAW9rL9AwjpNQaS7HINzeu4rsruu/7LX4RSwC4va27fcclpsADw1i",
+      "role": "employee",
+      "createdAt": "2026-10-02T15:00:04.372Z"
+    },
+    {
+      "id": "usr_1790953257632_l03pe",
+      "email": "nicholasadamo28@gmail.com",
+      "name": "NICHOLAS",
+      "surname": "ADAMO",
+      "passwordHash": "$2b$10$4EPpsJ1xi4YZ.ZfISjLqUebgSAuYvmG5rcHf5xfLOl/Qc9CQ4.STG",
+      "role": "employee",
+      "createdAt": "2026-10-02T15:00:57.632Z"
+    },
+    {
+      "id": "usr_1790953590985_bhmlj",
+      "email": "fariasriccardo@gmail.com",
+      "name": "RICCARDO",
+      "surname": "FARIAS",
+      "passwordHash": "$2b$10$ANnrFGpkW6Bcyg8s/.KAaOL0bYEAf.oJGPne3EtrY4yV6Rly1hvGO",
+      "role": "employee",
+      "createdAt": "2026-10-02T15:06:30.985Z"
+    }
+  ],
+  "timesheets": [
+    {
+      "id": "ts_1790951200370",
+      "userId": "usr_1790950192191_sl2yo",
+      "year": 2026,
+      "month": 10,
+      "days": {
+        "1": {
+          "ordinaryHours": 0
+        },
+        "2": {
+          "overtimeHours": 0,
+          "ordinaryHours": 0
+        },
+        "3": {
+          "malattiaHours": 0
+        }
+      },
+      "onCallWeeks": [
+        {
+          "id": "oc_1790951174553",
+          "startDate": "2026-10-15",
+          "endDate": "2026-10-22",
+          "notes": ""
+        }
+      ],
+      "notes": "",
+      "isLocked": false,
+      "submittedAt": null,
+      "updatedAt": "2026-10-02T15:09:54.406Z"
+    },
+    {
+      "id": "ts_1790954205815",
+      "userId": "usr_1790952074534_nwr1j",
+      "year": 2026,
+      "month": 10,
+      "days": {
+        "1": {
+          "ordinaryHours": 8,
+          "travelHours": 0.5
+        },
+        "2": {
+          "ordinaryHours": 8
+        },
+        "5": {
+          "ordinaryHours": 8
+        },
+        "6": {
+          "ordinaryHours": 8
+        },
+        "7": {
+          "ordinaryHours": 8
+        },
+        "8": {
+          "ordinaryHours": 8
+        },
+        "9": {
+          "ordinaryHours": 8
+        },
+        "12": {
+          "ordinaryHours": 8
+        },
+        "13": {
+          "ordinaryHours": 8
+        },
+        "14": {
+          "ordinaryHours": 8
+        },
+        "15": {
+          "ordinaryHours": 8
+        },
+        "16": {
+          "ordinaryHours": 8
+        },
+        "19": {
+          "ordinaryHours": 8
+        },
+        "20": {
+          "ordinaryHours": 8
+        },
+        "21": {
+          "ordinaryHours": 8
+        },
+        "22": {
+          "ordinaryHours": 8
+        },
+        "23": {
+          "ordinaryHours": 8
+        },
+        "26": {
+          "ordinaryHours": 8
+        },
+        "27": {
+          "ordinaryHours": 8
+        },
+        "28": {
+          "ordinaryHours": 8
+        },
+        "29": {
+          "ordinaryHours": 8
+        },
+        "30": {
+          "ordinaryHours": 8
+        }
+      },
+      "onCallWeeks": [],
+      "notes": "",
+      "isLocked": false,
+      "submittedAt": null,
+      "updatedAt": "2026-10-02T15:16:45.815Z"
+    }
+  ],
+  "companySettings": {
+    "name": "Mia Azienda S.r.l.",
+    "ordinaryHoursPerDay": 8
+  }
+}
